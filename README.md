@@ -61,4 +61,4 @@ You can also open it in Google Colab like this:
 
 Please, let me know to <a href='https://www.linkedin.com/in/erick-calderin-5bb6963b/'>LinkedIn: Erick Calderin </a> if you get errors by following steps above.
 
-You may follow me as well in https://medium.com/@erickcalderin
+You may follow me as well in https://medium.com/@erickcalderin and https://twitter.com/ErickDCal
