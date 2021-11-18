@@ -24,7 +24,7 @@ The model can classify between __chili dog__, __food__, __frankfurter__, __furni
 
 * Finally, test the endpoint wih some images from Google
 
-## Steps to reproduce without Docker (Manualy)
+## Steps to reproduce without Docker (Manually)
 
 
 * Run `pip3 install virtualenv`
