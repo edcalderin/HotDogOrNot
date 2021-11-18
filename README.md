@@ -18,9 +18,7 @@ The model can classify between __chili dog__, __food__, __frankfurter__, __furni
 ## Steps to reproduce with Docker (recommended)
 * Install Docker (only if you don't have it) from: https://www.docker.com/products/docker-desktop
 
-* Inside project folder, run `docker build -t fastapi_image .`
-
-* `docker run -d --name mycontainer -p 80:80 fastapi_image`
+* Inside project folder, run `docker-compose up`
 
 * Open http://127.0.0.1/docs for Swagger documentation
 
