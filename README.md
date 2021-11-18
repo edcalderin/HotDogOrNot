@@ -1,7 +1,7 @@
 # HotDogOrNot
 
 <div align="center" id="top"> 
-  <img src="https://drive.google.com/open?id=11ildP7IqK4UzBUXXnW53s-NJlVZZfQHM" alt="HotDogOrNot" />
+  <img src="https://drive.google.com/uc?id=11ildP7IqK4UzBUXXnW53s-NJlVZZfQHM" alt="HotDogOrNot" />
 
   &#xa0;
 
