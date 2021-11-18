@@ -1,5 +1,3 @@
-# HotDogOrNot
-
 <div align="center" id="top"> 
   <img src="https://drive.google.com/uc?id=11ildP7IqK4UzBUXXnW53s-NJlVZZfQHM" alt="HotDogOrNot" />
 
@@ -8,7 +6,7 @@
   <!-- <a href="https://hotdogornot.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">HotDogOrNot</h1>
+<h1 align="center">HotDog or Not</h1>
 FastApi for hot dog detection with Tensorflow Keras and Transfer Learning using a pretrained model, it is exactly VGG16.
 
 This project is based on <a href=https://pub.towardsai.net/fastapi-create-and-deploy-hot-dog-detector-cf89d9b51a3c > Towards Data Science: FastAPI Create and deploy hotdog detector</a> with a few variations and refactorizations.
