@@ -57,8 +57,11 @@ You can also open it in Google Colab like this:
 * Replace domain `github` for `githubtocolab.com/...`.
 * Once opened, save a copy to your Google Drive and hands on!
 
-## About
+## ✉️ Contact
+**LinkedIn:** https://www.linkedin.com/in/erick-calderin-5bb6963b/  
+**e-mail:** edcm.erick@gmail.com
 
-Please, let me know to <a href='https://www.linkedin.com/in/erick-calderin-5bb6963b/'>LinkedIn: Erick Calderin </a> if you get errors by following steps above.
+## Enjoyed this content?
+Explore more of my work on [Medium](https://medium.com/@erickcalderin) 
 
-You may follow me as well in https://medium.com/@erickcalderin and https://twitter.com/ErickDCal
+I regularly share insights, tutorials, and reflections on tech, AI, and more. Your feedback and thoughts are always welcome!
